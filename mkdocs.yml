@@ -1,4 +1,5 @@
-site_name: Plantilla para Documentación
+site_name: Documentación Proyecto de Ingenieria
+site_dir: 'docs'
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
