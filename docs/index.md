@@ -1,14 +1,8 @@
-# Documentación del Proyecto
-
-Bienvenido 👋  
-Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
-
+# ¡Bienvenido a mi Portafolio!
 ---
 
-## Empezar rápido (3 pasos)
+Hola, soy Gerardo Esquivel de Luna. Este espacio es mi portafolio digital. Aquí iré documentando mi progreso, proyectos y todo lo que voy aprendiendo en la materia.
 
-1. **Edita el nombre del sitio** en `mkdocs.yml`:
-   ```yaml
-   site_name: Documentación del Curso
-   theme:
-     name: material
+# Syllabus:
+
+
