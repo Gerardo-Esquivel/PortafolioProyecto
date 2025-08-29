@@ -4,5 +4,5 @@ Hola, soy Gerardo Esquivel de Luna. Este espacio es mi portafolio digital. Aquí
 
 # Syllabus:
 
-[**Syllabus firmado (pdf)**](recursos/Syllabus.pdf)
+[**Syllabus firmado (pdf)**](recursos/syllabus.pdf)
 
