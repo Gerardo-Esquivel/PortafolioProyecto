@@ -15,4 +15,4 @@
 [Ejercicio 5 - abrir en OneDrive](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EdaDr198lUpBtvit8yMKs0gBoobjIiSexnizYv53iuPW3Q?e=IneyAa "Abrir")
 ##-Ejercicio florero Solidworks:
 ![ejercicioflores](recursos/Ejercicio%20florero.png "Ejercicio florero")
-[Ejercicio 5 - abrir en OneDrive](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EVYk4CmO-Q5Jj1Pv7fRBnNkB0_ryyG8IQQ1R-w_VbFL9GA?e=spguOh "Abrir")
+[Ejercicio florero - abrir en OneDrive](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EVYk4CmO-Q5Jj1Pv7fRBnNkB0_ryyG8IQQ1R-w_VbFL9GA?e=spguOh "Abrir")
