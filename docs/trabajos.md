@@ -25,7 +25,7 @@
 
 ##-3 Macetas Solidworks:
 - Maceta 1
-![ejerciciomaceta1](recursos/... "Ejercicio maceta 1")
+![ejerciciomaceta1](recursos/maceta1.png "Ejercicio maceta 1")
 [Maceta 1 - abrir en OneDrive](link "Abrir")
 - Maceta 2
 ![ejerciciomaceta2](recursos/... "Ejercicio maceta 2")
