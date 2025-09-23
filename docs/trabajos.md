@@ -6,8 +6,8 @@
 ![portacelular](recursos/portacelular.jpeg "Portacelular")
 
 ##Videos usando máquinas:
-[Ver video de la máquina 1 (corte de metal)](recursos/videomaquina1.mp4)
-[Ver video de la máquina 2 (corte de metal)](recursos/videomaquina2.mp4)
+- [Ver video de la máquina 1 (corte de metal)](recursos/videomaquina1.mp4)
+- [Ver video de la máquina 2 (corte de metal)](recursos/videomaquina2.mp4)
 
 
 ##-Ejercicio 1 Solidworks:
