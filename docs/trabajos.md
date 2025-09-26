@@ -4,6 +4,7 @@
 
 ##-Porta celulares:
 ![portacelular](recursos/portacelular.jpeg "Portacelular")
+Para elaborar nuestro porta celular de madera, primero pegamos los planos impresos sobre la superficie con pegamento para marcar el diseño. Después realizamos los cortes con las sierras del IDIT y, finalmente, lijamos las piezas para suavizar los bordes y darles un mejor acabado. El resultado fue un porta celular práctico y funcional, hecho a mano con apoyo de la maquinaria del taller.
 
 ##-Videos usando máquinas:
 - [Ver video de la máquina 1 (corte de metal)](recursos/videomaquina1.mp4)
