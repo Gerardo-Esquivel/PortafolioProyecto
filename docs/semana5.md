@@ -29,18 +29,22 @@ Para el corte busque ideas de figuras armadas en mdf, y quise hacer una avioneta
 Ahora lo exporto a formato .DXF para que tenga el formato adecuado para la cortadora
 
 
-<img src="../recursos/avionimagensld.png" width="400" alt="mercedes">
+<img src="../recursos/aviondxfimagen.png" width="400" alt="mercedes">
 
 
-(archivo)
+[Descargar archivo de Corte Láser (.dxf)](recursos/avion.DXF)
 
 
 ## Proceso de corte:
 Puse los parámetros en la máquina y empezó a cortar
 
 
-(video)
+<video width="400" controls>
+  <source src="../recursos/cortelaser.mp4" type="video/mp4">
+</video>
 
 
 ## Resultado (ensamblaje):
-(imagenes)
+<img src="../recursos/ensamble1.jpeg" width="400" alt="mercedes">
+<img src="../recursos/ensamble2.jpeg" width="400" alt="mercedes">
+<img src="../recursos/ensamble3.jpeg" width="400" alt="mercedes">
