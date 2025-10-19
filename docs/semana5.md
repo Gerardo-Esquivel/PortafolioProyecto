@@ -9,7 +9,7 @@ Se exporta en .DXF, que es el formato que se utiliza en la máquina láser, se c
 <img src="../recursos/grabadomercedes.png" width="400" alt="mercedes">
 
 
-[Descargar archivo de Corte Láser (.dxf)](..recursos/logograbadogerardo.DXF)
+[Descargar archivo de Corte Láser (.dxf)](recursos/logograbadogerardo.DXF)
 
 ## Resultado:
 <img src="../recursos/grabadoresultado.jpeg" width="400" alt="mercedes">
