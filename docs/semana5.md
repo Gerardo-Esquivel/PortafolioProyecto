@@ -19,17 +19,17 @@ Se exporta en .DXF, que es el formato que se utiliza en la máquina láser, se c
 Para el corte busque ideas de figuras armadas en mdf, y quise hacer una avioneta, primero diseñém las piezas en SolidWorks, teniendo en cuenta el grosor del mdf (2 mm)
 
 
-(imagen)
+<img src="../recursos/avionimagensld.png" width="400" alt="mercedes">
 
 
-(archivo)
+[Descargar archivo de SolidWorks (.SLDPRT)](recursos/AvionVector.SLDPRT)
 
 
 ## Diseño en DXF
 Ahora lo exporto a formato .DXF para que tenga el formato adecuado para la cortadora
 
 
-(imagen)
+<img src="../recursos/avionimagensld.png" width="400" alt="mercedes">
 
 
 (archivo)
