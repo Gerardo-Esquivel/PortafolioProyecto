@@ -1,19 +1,16 @@
 # Corte y grabado con máquina láser
 
 # Grabado:
-Para el grabado láser diseñé en solidworks el logotipo de Mercedes-Benz.
-(imagen)
-## Diseño en SolidWorks:
-(imagen)
-(archivo)
 
 ## Diseño en DXF
 Se exporta en .DXF, que es el formato que se utiliza en la máquina láser, se coloca en el programa, se hacen pruebas de medida y se configuran parámetros de potencia y velocidad del láser y se manda a grabar.
-(imagen)
-(archivo dxf)
+<img src="../recursos/grabadomercedes.png" width="400" alt="mercedes">
+
+
+[Descargar archivo de Corte Láser (.dxf)](..recursos/logograbadogerardo.DXF)
 
 ## Resultado:
-(imagen)
+<img src="../recursos/grabadoresultado.jpeg" width="400" alt="mercedes">
 
 
 # Corte:
