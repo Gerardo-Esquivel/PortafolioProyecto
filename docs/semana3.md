@@ -27,4 +27,22 @@ Primero cortamos la madera con una cortadora circular vertical para hacerla mas 
 Pegamos la plantilla del porta celular para cortar las piezas individualmente y procedemos a cortarlo con la cortadora circular.
 
 
-![ejercicio1](recursos/Ejercicio%201.png "Ejercicio 1")
+![maderas](recursos/maderas.jpeg "maderas")
+
+
+**Paso 3**
+
+
+Finalmente, perforamos la madera para poder hacer los cortes internos.
+
+
+![hoyos](recursos/hoyos.jpeg "hoyos")
+
+
+**Paso 4**
+
+
+Lijamos y ensamblamos
+## Resultado:
+![portacelular](recursos/portacelular.jpeg "portacelular")
+
