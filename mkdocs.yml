@@ -40,7 +40,15 @@ extra_css:
   
 nav:
   - Inicio: index.md
-  - Trabajos semanales: trabajos.md
+  - Trabajos semanales: 
+    - Semana 1 (Syllabus): semana1.md
+    - Semana 2 (Ejercicio pieza): semana2.md
+    - Semana 3 (Práctica 1 IDIT): semana3.md
+    - Semana 4 (Ejercicios Solidworks): semana4.md
+    - Semana 5 (Cortadora Láser): semana5.md
+    - Semana 6 (Impresión 3D): semana6.md
+    - Semana 7 (Modelo personaje): semana7.md
+    - Semana 8 (Práctica 2 IDIT): semana8.md
   - Proyecto final: proyecto.md
   - Conóceme: aboutme.md
   
