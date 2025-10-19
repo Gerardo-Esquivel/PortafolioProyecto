@@ -10,6 +10,9 @@ Utilizamos guantes, polainas, mangas, pechera, lentes y careta de soldar.
 <video width="400" controls>
   <source src="../recursos/videomaquina1.mp4" type="video/mp4">
 </video>
+<video width="400" controls>
+  <source src="../recursos/videomaquina2.mp4" type="video/mp4">
+</video>
 
 
 ## Trabajo con madera:
