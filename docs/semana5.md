@@ -4,6 +4,8 @@
 
 ## Diseño en DXF
 Se exporta en .DXF, que es el formato que se utiliza en la máquina láser, se coloca en el programa, se hacen pruebas de medida y se configuran parámetros de potencia y velocidad del láser y se manda a grabar.
+
+
 <img src="../recursos/grabadomercedes.png" width="400" alt="mercedes">
 
 
