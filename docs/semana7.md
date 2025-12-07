@@ -4,14 +4,20 @@ Con ayuda de la IA Gemini, cada quién diseñó un personaje animado, sin fondo,
 
 ## Personaje
 
-(imagen)
+
+![gecko](recursos/gecko.png "gecko")
 
 
 ## Archivo STL
 
-(archivo)
+
+[LINK-ONEDRIVE](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/Ec2b36GE-tRFgsw-pinB8BsB_pnnfVVcYSJzbF1uYK0mSQ?e=hJsXbb)
 
 
 ## Resultado
 
-(Imagen)
+
+![gecko](recursos/resultadogecko.png "gecko")
+
+
+
