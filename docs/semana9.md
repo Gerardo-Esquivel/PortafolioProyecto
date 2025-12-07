@@ -3,6 +3,11 @@
 ## MATRIZ-SOLIDWORKS
 
 
+<img src="../recursos/spinnerimg.jpeg" width="400" alt="spinner">
+
+
+[SLPRT-ONEDRIVE](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EVoGx45mfudDgQWZXfVc-c0BASpkbSWlQOJYNerXaUKpQQ?e=HYtZMg)
+
 
 
 ## Escaneo de cabeza
