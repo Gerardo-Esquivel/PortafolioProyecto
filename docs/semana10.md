@@ -16,3 +16,5 @@ En esta práctica, Beto nos enseñó acerca de la máquina CNC que se encuentra 
 
 <img src="../recursos/maquinahor.jpeg" width="400" alt="spinner">
 
+
+## Mi Archivo para CNC
