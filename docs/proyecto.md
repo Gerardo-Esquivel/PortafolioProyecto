@@ -4,4 +4,8 @@ El proyecto final consistió en la elaboración de una catapulta y una figura co
 
 <img src="../recursos/figurin.jpeg" width="400" alt="spinner">
 
-<img src="../recursos/figurin.jpeg" width="400" alt="spinner">
+
+<img src="../recursos/siluetasolid.png" width="400" alt="spinner">
+
+
+<img src="../recursos/siluetadxf.png" width="400" alt="spinner">
