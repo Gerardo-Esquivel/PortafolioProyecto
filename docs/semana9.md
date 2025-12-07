@@ -1,5 +1,9 @@
 ## MATRIZ y ESCANEO DE CABEZA
 
+## MATRIZ-SOLIDWORKS
+
+
+
 
 ## Escaneo de cabeza
 Aprendimos a escanear cosas tridimensionales con un scaner 3D con luz infraroja y láser. En este caso usamos el escaner infrarojo para el escaneo de nuestras caras, asi no nos hace daño.
