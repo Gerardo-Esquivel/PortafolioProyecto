@@ -12,7 +12,10 @@ Esta practica consistio en generar un personaje a nuestro gusto usando la imagin
 
 ## Archivo STL
 
-
+[LINK-ONEDRIVE](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/Ec2b36GE-tRFgsw-pinB8BsB_pnnfVVcYSJzbF1uYK0mSQ?e=hJsXbb)
 
 ## Resultado
+
+
+
 
