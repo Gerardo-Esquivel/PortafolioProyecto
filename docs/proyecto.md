@@ -24,11 +24,23 @@ La catapulta la hicimos 100% de impresión 3D incluyendo la munición
 
 
 <img src="../recursos/imagencatapulta.jpeg" width="400" alt="spinner">
-<video width="400" controls>
 
-  
+
+<video width="400" controls>
   <source src="../recursos/videocatapulta.mp4" type="video/mp4">
 </video>
+
+
+  ## GUERRA DE CATAPULTAS
+
+
+Hicimos una batalla de catapultas y figurines con el otro grupo y terminamos ganadores!!!
+
+
+<img src="../recursos/guerra.jpeg" width="400" alt="spinner">
+
+
+  
 
 
 [ONEDRIVE - TODOS LOS STL CATAPULTA](https://iberopuebla-my.sharepoint.com/:f:/g/personal/204655_iberopuebla_mx/EszzCl1t8YlFm-O1017Jd1EBxNDUsjMReeQKOOm8CHT-qg?e=ILj1es)
