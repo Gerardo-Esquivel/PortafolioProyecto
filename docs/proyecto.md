@@ -19,3 +19,6 @@ El proyecto final consistió en la elaboración de una catapulta y una figura co
 ## CATAPULTA
 
 
+La catapulta la elaboramos 100% de impresion 3D, incluyendo la munición.
+
+<img src="../recursos/figurin.jpeg" width="400" alt="spinner">
