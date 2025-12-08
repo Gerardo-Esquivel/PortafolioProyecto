@@ -22,7 +22,7 @@ En esta práctica, Beto nos enseñó acerca de la máquina CNC que se encuentra 
 <img src="../recursos/imagenvcarvepro.jpeg" width="400" alt="spinner">
 <img src="../recursos/imagenvcarve.png" width="400" alt="spinner">
 
-![ONEDRIVE-ARCHIVO NC CORTE](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/ESC4oJiqKXxOnCTXddD8QZgBbDPHJbBB-YIwnv6zoBy0HA?e=NePtSV)
+[ONEDRIVE-ARCHIVO NC CORTE](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/ESC4oJiqKXxOnCTXddD8QZgBbDPHJbBB-YIwnv6zoBy0HA?e=NePtSV)
 
 
-![ONEDRIVE-ARCHIVO NC GRABADO](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EZlS6gSuDeBOvdNPvuEY25oBZqEbVOaKagSk4Mg8bEQx-w?e=3hEcqU)
+[ONEDRIVE-ARCHIVO NC GRABADO](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EZlS6gSuDeBOvdNPvuEY25oBZqEbVOaKagSk4Mg8bEQx-w?e=3hEcqU)
