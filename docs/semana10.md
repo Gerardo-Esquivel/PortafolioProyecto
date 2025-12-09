@@ -19,7 +19,7 @@ En esta práctica, Beto nos enseñó acerca de la máquina CNC que se encuentra 
 
 ## Mi Archivo para CNC
 
-<img src="../recursos/imagenvcarvepro.jpeg" width="400" alt="spinner">
+<img src="../recursos/imagenvcarvepro.jpg" width="400" alt="spinner">
 
 
 [ONEDRIVE-ARCHIVO NC CORTE](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/ESC4oJiqKXxOnCTXddD8QZgBbDPHJbBB-YIwnv6zoBy0HA?e=NePtSV)
