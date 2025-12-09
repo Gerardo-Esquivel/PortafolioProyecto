@@ -9,6 +9,11 @@
 ---
 ## Ejercicio 5 Solidworks:
 ---
+<img src="../recursos/SOLID-BUENOS/capturas/captura05.png" width="400" alt="1">
+<p>
+    <a href="../recursos/SOLID-BUENOS/Ejercicio%205%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
+</p>
+---
 
 ## Ejercicio florero Solidworks:
 ![ejercicioflores](recursos/Ejercicio%20florero.png "Ejercicio florero")
