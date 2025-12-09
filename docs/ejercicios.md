@@ -1,9 +1,9 @@
 ## 40 EJERCICIOS SOLIDWORKS
-
+---
 
 Ejercicios Solidworks dejados al principio del curso
 
-
+---
 ## Ejercicio 1
 ---
 <img src="../recursos/SOLID-BUENOS/capturas/captura01.png" width="400" alt="1">
@@ -220,5 +220,5 @@ Ejercicios Solidworks dejados al principio del curso
 <p>
     <a href="../recursos/SOLID-BUENOS/Ejercicio%2037%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
----
+
 
