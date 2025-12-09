@@ -2,6 +2,8 @@
 
 ## MATRIZ-SOLIDWORKS
 
+La creacion de la matriz fue para realizar un proceso de fabricacion mediante moldes, el principio era crear una matriz para crear un molde y posteriormente hacer el metodo de inyeccion para sacar una pieza hecha de resina. yo quise hacer un famoso juguete llamado Spinner.
+
 
 <img src="../recursos/matrizspinner.png" width="400" alt="spinner">
 
