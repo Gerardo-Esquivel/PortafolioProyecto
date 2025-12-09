@@ -7,6 +7,9 @@ En este link está la carpeta en OneDrive con acceso a los 40 ejercicios de Soli
 ## Ejercicio 1
 ---
 <img src="../recursos/SOLID-BUENOS/capturas/captura01.png" width="400" alt="1">
+<p>
+    <a href="../recursos/SOLID-BUENOS/Ejercicio%201%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
+</p>
 ---
 ## Ejercicio 2
 ---
