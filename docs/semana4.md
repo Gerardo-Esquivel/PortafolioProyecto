@@ -1,18 +1,14 @@
 ## Ejercicios SolidWorks
-
-## Ejercicio 2 Solidworks:
-![ejercicio2](recursos/Ejercicio%202.png "Ejercicio 2")
-
-
-- [Ejercicio 2 - abrir en OneDrive](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/Ed8jhqfGd9hKiqUrl-jKElcB8v24usvNBnWIsZc72p19lQ?e=3hKL4Q "Abrir")
-
-
+---
+## Ejercicio 2
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura02.png" width="400" alt="1">
+<p>
+    <a href="../recursos/SOLID-BUENOS/Ejercicio%202%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
+</p>
+---
 ## Ejercicio 5 Solidworks:
-![ejercicio5](recursos/Ejercicio%205.png "Ejercicio 5")
-
-
-- [Ejercicio 5 - abrir en OneDrive](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EdaDr198lUpBtvit8yMKs0gBoobjIiSexnizYv53iuPW3Q?e=IneyAa "Abrir")
-
+---
 
 ## Ejercicio florero Solidworks:
 ![ejercicioflores](recursos/Ejercicio%20florero.png "Ejercicio florero")
