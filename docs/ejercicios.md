@@ -5,16 +5,48 @@ En este link está la carpeta en OneDrive con acceso a los 40 ejercicios de Soli
 
 
 ## Ejercicio 1
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+---
 ## Ejercicio 2
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+---
 ## Ejercicio 3
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+---
 ## Ejercicio 4
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+---
 ## Ejercicio 5
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+---
 ## Ejercicio 6
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+---
 ## Ejercicio 7
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+--
 ## Ejercicio 8
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+---
 ## Ejercicio 9
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+---
 ## Ejercicio 10
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+---
 ## Ejercicio 11
+---
+<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
 ## Ejercicio 12
 ## Ejercicio 13
 ## Ejercicio 14
