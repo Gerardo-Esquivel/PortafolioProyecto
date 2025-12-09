@@ -16,35 +16,34 @@
 ---
 
 ## Ejercicio florero Solidworks:
+---
 ![ejercicioflores](recursos/Ejercicio%20florero.png "Ejercicio florero")
-
-
-- [Ejercicio florero - abrir en OneDrive](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EVYk4CmO-Q5Jj1Pv7fRBnNkB0_ryyG8IQQ1R-w_VbFL9GA?e=spguOh "Abrir")
-
-
+<p>
+    <a href="../recursos/macetas/EjercicioFlorero.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
+</p>
+---
 ## 3 Macetas Solidworks:
+---
 - **Maceta 1**
 
 
 ![ejerciciomaceta1](recursos/maceta1.png "Ejercicio maceta 1")
-
-
-[Maceta 1 - abrir en OneDrive](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EeM6-dyUBuJJpL_5Y8nArjcBuS9ZAmYz12bVy_Ac0i2H0g?e=Ny56Tc "Abrir")
-
-
+<p>
+    <a href="../recursos/macetas/Maceta1.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
+</p>
+---
 - **Maceta 2**
 
-  
+ 
 ![ejerciciomaceta2](recursos/maceta2.png "Ejercicio maceta 2")
-
-
-[Maceta 2 - abrir en OneDrive](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EZHI_jAu4SNIm3_IH5WUaigBzMwYuvfIDhGa7sHq-PDPOA?e=sxV5kg "Abrir")
-
-
+<p>
+    <a href="../recursos/macetas/Maceta2.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
+</p>
+---
 - **Maceta 3**
 
   
 ![ejerciciomaceta3](recursos/maceta3.png "Ejercicio maceta 3")
-
-
-[Maceta 3 - abrir en OneDrive](https://iberopuebla-my.sharepoint.com/:u:/g/personal/204655_iberopuebla_mx/EQF4h_CIcT9IpUT4zJFWjZABkaXDQdP8xBnC9MlXkx-Oxw?e=uqa5Fp "Abrir")
+<p>
+    <a href="../recursos/macetas/Maceta3.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
+</p>
