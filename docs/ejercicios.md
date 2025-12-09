@@ -52,7 +52,7 @@ Ejercicios Solidworks dejados al principio del curso
 <p>
     <a href="../recursos/SOLID-BUENOS/Ejercicio%207%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
---
+---
 ## Ejercicio 8
 ---
 <img src="../recursos/SOLID-BUENOS/capturas/captura08.png" width="400" alt="1">
