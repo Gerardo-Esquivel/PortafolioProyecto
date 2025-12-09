@@ -6,7 +6,7 @@ En este link está la carpeta en OneDrive con acceso a los 40 ejercicios de Soli
 
 ## Ejercicio 1
 ---
-<img src="../recursos/SOLID-BUENOS/capturas/captura1.png" width="400" alt="1">
+<img src="../recursos/SOLID-BUENOS/capturas/captura01.png" width="400" alt="1">
 ---
 ## Ejercicio 2
 ---
