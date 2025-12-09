@@ -144,25 +144,11 @@ Ejercicios Solidworks dejados al principio del curso
     <a href="../recursos/SOLID-BUENOS/Ejercicio%2020%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 ---
-## Ejercicio 21
----
-<img src="../recursos/SOLID-BUENOS/capturas/captura21.png" width="400" alt="1">
-<p>
-    <a href="../recursos/SOLID-BUENOS/Ejercicio%2021%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
-</p>
----
 ## Ejercicio 22
 ---
 <img src="../recursos/SOLID-BUENOS/capturas/captura22.png" width="400" alt="1">
 <p>
     <a href="../recursos/SOLID-BUENOS/Ejercicio%2022%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
-</p>
----
-## Ejercicio 23
----
-<img src="../recursos/SOLID-BUENOS/capturas/captura23.png" width="400" alt="1">
-<p>
-    <a href="../recursos/SOLID-BUENOS/Ejercicio%2023%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 ---
 ## Ejercicio 24
@@ -179,13 +165,6 @@ Ejercicios Solidworks dejados al principio del curso
     <a href="../recursos/SOLID-BUENOS/Ejercicio%2025%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 ---
-## Ejercicio 26
----
-<img src="../recursos/SOLID-BUENOS/capturas/captura26.png" width="400" alt="1">
-<p>
-    <a href="../recursos/SOLID-BUENOS/Ejercicio%2026%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
-</p>
----
 ## Ejercicio 27
 ---
 <img src="../recursos/SOLID-BUENOS/capturas/captura27.png" width="400" alt="1">
@@ -198,13 +177,6 @@ Ejercicios Solidworks dejados al principio del curso
 <img src="../recursos/SOLID-BUENOS/capturas/captura28.png" width="400" alt="1">
 <p>
     <a href="../recursos/SOLID-BUENOS/Ejercicio%2028%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
-</p>
----
-## Ejercicio 29
----
-<img src="../recursos/SOLID-BUENOS/capturas/captura29.png" width="400" alt="1">
-<p>
-    <a href="../recursos/SOLID-BUENOS/Ejercicio%2029%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 ---
 ## Ejercicio 30
@@ -235,25 +207,11 @@ Ejercicios Solidworks dejados al principio del curso
     <a href="../recursos/SOLID-BUENOS/Ejercicio%2033%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 ---
-## Ejercicio 34
----
-<img src="../recursos/SOLID-BUENOS/capturas/captura34.png" width="400" alt="1">
-<p>
-    <a href="../recursos/SOLID-BUENOS/Ejercicio%2034%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
-</p>
----
 ## Ejercicio 35
 ---
 <img src="../recursos/SOLID-BUENOS/capturas/captura35.png" width="400" alt="1">
 <p>
     <a href="../recursos/SOLID-BUENOS/Ejercicio%2035%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
-</p>
----
-## Ejercicio 36
----
-<img src="../recursos/SOLID-BUENOS/capturas/captura36.png" width="400" alt="1">
-<p>
-    <a href="../recursos/SOLID-BUENOS/Ejercicio%2036%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 ---
 ## Ejercicio 37
@@ -263,25 +221,4 @@ Ejercicios Solidworks dejados al principio del curso
     <a href="../recursos/SOLID-BUENOS/Ejercicio%2037%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
 </p>
 ---
-## Ejercicio 38
----
-<img src="../recursos/SOLID-BUENOS/capturas/captura38.png" width="400" alt="1">
-<p>
-    <a href="../recursos/SOLID-BUENOS/Ejercicio%2038%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
-</p>
----
-## Ejercicio 39
----
-<img src="../recursos/SOLID-BUENOS/capturas/captura39.png" width="400" alt="1">
-<p>
-    <a href="../recursos/SOLID-BUENOS/Ejercicio%2039%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
-</p>
----
-## Ejercicio 40
----
-<img src="../recursos/SOLID-BUENOS/capturas/captura40.png" width="400" alt="1">
-<p>
-    <a href="../recursos/SOLID-BUENOS/Ejercicio%2040%20Gerardo%20Esquivel.SLDPRT" target="_blank">[Descargar (SLDPRT)]</a>
-</p>
-
 
